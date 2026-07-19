@@ -1,11 +1,5 @@
-const firebaseConfig = {
-  apiKey: "AIzaSyCG8r-VyRwHCFZsuwI4cxIGaME0ttNi39I",
-  authDomain: "timetable-eeb48.firebaseapp.com",
-  projectId: "timetable-eeb48",
-  storageBucket: "timetable-eeb48.firebasestorage.app",
-  messagingSenderId: "136725919203",
-  appId: "1:136725919203:web:f0e7a6fcd2cfd4ec1d5cd6"
-};
+
+  
 
 
 
